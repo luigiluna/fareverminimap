@@ -1,0 +1,10 @@
+# Build output
+build/
+
+# Imagens extraídas do jogo (não redistribuídas)
+data/*.png
+
+*.log
+__pycache__/
+*.pyc
+.DS_Store

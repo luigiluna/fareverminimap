@@ -1,8 +1,8 @@
 #!/bin/sh
-# Builds build/farever-overlay/ (the mod folder) with the local Haxe in ../../toolchain (or $HAXE_TC).
+# Builds build/farever-overlay/ (the mod folder) with the local Haxe in ../toolchain (or $HAXE_TC).
 set -e
 cd "$(dirname "$0")"
-TC=${HAXE_TC:-$(cd ../.. && pwd)/toolchain/haxe}
+TC=${HAXE_TC:-$(cd .. && pwd)/toolchain/haxe}
 export HAXE_STD_PATH=$TC/std
 rm -rf build/farever-overlay
 mkdir -p build/farever-overlay/data

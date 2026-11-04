@@ -2,7 +2,7 @@
 """Converts the C++ overlay's generated tables (game_names_data.inc and
 player_icons_data.inc, both made from data.cdb) into src/fo/data/GameTables.hx.
 
-    python3 -I tools/gen_tables.py ../src/farever-mod src/fo/data/GameTables.hx
+    python3 -I tools/gen_tables.py ../repo/src/farever-mod src/fo/data/GameTables.hx
 
 Regenerate the .inc files first after a game update (see their generators in
 repo/tools/gen_game_names.py and gen_player_icons.py)."""

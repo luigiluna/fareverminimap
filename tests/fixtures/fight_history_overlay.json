@@ -1,0 +1,1155 @@
+{
+  "builds": [
+    { "key": "2a98ada87562f80f", "uid": 100, "name": "Player18", "class": "Warrior", "level": 25, "talents_read": 1, "talent_points": 16,
+      "gear": [
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot", "Corrupted Gift"] },
+            { "id": "GA_Craft", "name": "Judgement", "slot": 1, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Lifestealing"] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] },
+            { "id": "Head_EManfish_Fig", "name": "Visor of the Sea Titan", "slot": 3, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Crit Chance", "augments": [] },
+            { "id": "Necklace_Z2RCraft", "name": "Pendant of Adaptability", "slot": 4, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Brutality"] },
+            { "id": "Shoulders_EKobold_Fig", "name": "Reblochonk's Pauldrons", "slot": 5, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Armor Penetration", "augments": [] },
+            { "id": "Chest_EBee_Fig", "name": "Cuirass of the Queenslayer", "slot": 6, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Crit Chance", "augments": [] },
+            { "id": "Back_ECrimson_Fig", "name": "Shroud of the Ancient King", "slot": 7, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Armor Penetration", "augments": [] },
+            { "id": "Hands_EKobold_FigWiz", "name": "Gauntlets of the Railway Agent", "slot": 8, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Armor Penetration", "augments": [] },
+            { "id": "Waist_EKobold_FigCle", "name": "Reblochonk Toolbelt", "slot": 9, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Kobold DPS", "bonus": "Armor Penetration", "augments": [] },
+            { "id": "Legs_EKobold_Fig", "name": "Mine Estrone's Safety Thigh Guards", "slot": 10, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Bee Support", "bonus": "Armor Penetration", "augments": [] },
+            { "id": "Feet_EBee_Fig", "name": "Sabatons of the Golden Swarm", "slot": 11, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Bee Support", "bonus": "Crit Chance", "augments": [] },
+            { "id": "Finger_Z3RCraft_Ap", "name": "Set Eye of Fracture", "slot": 12, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Brutality"] },
+            { "id": "Trinket_Kobold_E", "name": "Raclette Pan", "slot": 13, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z3RCraft_Ap", "name": "Set Eye of Fracture", "slot": 14, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Brutality"] }
+      ],
+      "talents": [
+        { "name": "Hemorrhage", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Seasoned Soldier", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Bloodletting", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Exsanguination", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Bruise", "rank": 1, "branch": 1, "tier": 3 },
+        { "name": "Fighting Spirit", "rank": 2, "branch": 1, "tier": 3 },
+        { "name": "Sever", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Red Tempo", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Exposed Essence", "rank": 2, "branch": 2, "tier": 3 },
+        { "name": "Rage Shield", "rank": 1, "branch": 3, "tier": 1 },
+        { "name": "Bloodfeast", "rank": 1, "branch": 3, "tier": 2 }
+      ] },
+    { "key": "7b65d6843e0acbb4", "uid": 101, "name": "Player12", "class": "Warrior", "level": 12, "talents_read": 1, "talent_points": 0,
+      "gear": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 9, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 9, "upgrade": 2, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Necklace_Z1_Ap", "name": "Amulet of Fracture", "slot": 4, "level": 6, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_Z1U2_Fig", "name": "Reinforced Hauberk of the Trespasser", "slot": 6, "level": 10, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_RBee_FigAss", "name": "Reflective Vest of the Hive Worker", "slot": 7, "level": 12, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_Z1U2_Fig", "name": "Reinforced Gauntlets of the Trespasser", "slot": 8, "level": 8, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_Z1U2_Fig", "name": "Reinforced Pteruge of the Trespasser", "slot": 9, "level": 10, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_RKobold_Fig", "name": "Wrong Trousers", "slot": 10, "level": 7, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_Z2U1_Fig", "name": "Reinforced Warboots of the Adventurer", "slot": 11, "level": 12, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z1RCraft_Ap", "name": "Circle of Fracture", "slot": 12, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Tempered Cut Beryl"] },
+            { "id": "Trinket_Demon", "name": "Finger of Sukuna'Maatata", "slot": 13, "level": 10, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z1RCraft_Fer", "name": "Circle of Zeal", "slot": 14, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Tempered Cut Beryl"] }
+      ],
+      "talents": [
+      ] },
+    { "key": "86d300b3dd83ac11", "uid": 102, "name": "Player13", "class": "Rogue", "level": 4, "talents_read": 1, "talent_points": 0,
+      "gear": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_Z1U1_AssWiz", "name": "Infused Doublet of the Exile", "slot": 6, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_Z1U1_AssCle", "name": "Ethereal Capelet of the Exile", "slot": 7, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_Z1U1_Ass", "name": "Featherlight Hand Wraps of the Exile", "slot": 8, "level": 2, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_Z1U1_FigAss", "name": "Condensed Pteruge of the Exile", "slot": 9, "level": 4, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_Z1U1_Ass", "name": "Featherlight Trousers of the Exile", "slot": 10, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_Z1U1_Ass", "name": "Featherlight Boots of the Exile", "slot": 11, "level": 4, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+      ] },
+    { "key": "65450db80ab5fb22", "uid": 103, "name": "Player01", "class": "Rogue", "level": 3, "talents_read": 1, "talent_points": 0,
+      "gear": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_Z1U1_AssCle", "name": "Ethereal Doublet of the Exile", "slot": 6, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_Z1U1_Ass", "name": "Featherlight Capelet of the Exile", "slot": 7, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_Z1U1_AssWiz", "name": "Infused Hand Wraps of the Exile", "slot": 8, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_Z1U1_Ass", "name": "Featherlight Trousers of the Exile", "slot": 10, "level": 1, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_Starter_Ass", "name": "Hoodlum's Boots", "slot": 11, "level": 0, "upgrade": 0, "rarity": "Common", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+      ] },
+    { "key": "f94de2d178907dbf", "uid": 104, "name": "Player03", "class": "Priest", "level": 19, "talents_read": 1, "talent_points": 9,
+      "gear": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 18, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 18, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Head_Z2U1_FigCle", "name": "Blessed Helmet of the Adventurer", "slot": 3, "level": 16, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Necklace_Z2_Cri", "name": "Necklace of Precision", "slot": 4, "level": 17, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shoulders_RCrimson_Cle", "name": "Judgment Spaulders", "slot": 5, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_RBee_AssCle", "name": "Emblem of Radiant Nectar", "slot": 6, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_RKobold_Cle", "name": "Mystical Placemat of the Gourmet", "slot": 7, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_RBee_Cle", "name": "Palmaryllis", "slot": 8, "level": 12, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_RBee_AssCle", "name": "Propolis Heart of Apix", "slot": 9, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_Z2U1_FigCle", "name": "Blessed Galligaskins of the Adventurer", "slot": 10, "level": 16, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_Z2U1_FigCle", "name": "Blessed Warboots of the Adventurer", "slot": 11, "level": 16, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z2_Fer", "name": "Ringlet of Zeal", "slot": 12, "level": 11, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Trinket_Manfish", "name": "Poetrident", "slot": 13, "level": 8, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Cri", "name": "Ring of Precision", "slot": 14, "level": 9, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+        { "name": "Sunlight", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Soothing Rays", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Fervent Defender", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Purging Strikes", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Zealous Fighter", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Swift Justice", "rank": 1, "branch": 3, "tier": 1 },
+        { "name": "Oppressive Rays", "rank": 1, "branch": 3, "tier": 2 }
+      ] },
+    { "key": "e694137e788898cd", "uid": 105, "name": "Player21", "class": "Priest", "level": 25, "talents_read": 1, "talent_points": 16,
+      "gear": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Zealot"] },
+            { "id": "Scepter_Flamie", "name": "Flame of Argol", "slot": 1, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] },
+            { "id": "Head_RKobold_WizCle", "name": "Dust Scarf", "slot": 3, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Sigil of Bet'Hatesht"] },
+            { "id": "Necklace_Z2RCraft", "name": "Pendant of Adaptability", "slot": 4, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Resonant Cut Amber"] },
+            { "id": "Shoulders_RCrimson_AssCle", "name": "Noble Mantle", "slot": 5, "level": 23, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_RManfish_Cle", "name": "Charm of the Fisher King", "slot": 6, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Sanctified Bronze Plate"] },
+            { "id": "Back_RCrimson_AssCle_Craft", "name": "Cloak of Rising Twilight", "slot": 7, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Divine Soft Embroidery"] },
+            { "id": "Hands_RBee_Cle", "name": "Palmaryllis", "slot": 8, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Minor Faith"] },
+            { "id": "Waist_RDemon_Cle", "name": "Belt of Sacrifice", "slot": 9, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_RManfish_Cle", "name": "High-speed Clamdiggers", "slot": 10, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_RBee_Cle", "name": "Cleo's Ethereal Blossoms", "slot": 11, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Magic Penetration"] },
+            { "id": "Finger_Z3RCraft_Mp", "name": "Set Eye of Clarity", "slot": 12, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Trinket_Manfish", "name": "Poetrident", "slot": 13, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z3RCraft_Mp", "name": "Set Eye of Clarity", "slot": 14, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+        { "name": "Sunlight", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Soothing Rays", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Crusader's Resolve", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Fervent Defender", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Radiance", "rank": 2, "branch": 1, "tier": 3 },
+        { "name": "Purging Strikes", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Zealous Fighter", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Swift Justice", "rank": 1, "branch": 3, "tier": 1 },
+        { "name": "Oppressive Rays", "rank": 2, "branch": 3, "tier": 2 },
+        { "name": "Blessed Spirituality", "rank": 1, "branch": 3, "tier": 3 },
+        { "name": "Burning Rays", "rank": 1, "branch": 3, "tier": 3 }
+      ] },
+    { "key": "576627d37ff86167", "uid": 106, "name": "Player14", "class": "Warrior", "level": 25, "talents_read": 1, "talent_points": 16,
+      "gear": [
+            { "id": "DA_Water", "name": "Iron Fins of the Leviathan", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "GS_Nova", "name": "Martyr of Enripit", "slot": 1, "level": 25, "upgrade": 0, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Head_RKobold_FigCle", "name": "Armored Docker Cap", "slot": 3, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Necklace_Z2_Cri", "name": "Necklace of Precision", "slot": 4, "level": 16, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Brutality"] },
+            { "id": "Shoulders_EManfish_FigAss", "name": "Coral Epaulets", "slot": 5, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "Fervor", "augments": [] },
+            { "id": "Chest_RBee_Fig", "name": "Whirring Gem of Apix", "slot": 6, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_RKobold_FigWiz", "name": "Diskobold's Discus Throw Gloves", "slot": 8, "level": 10, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_RKobold_FigCle", "name": "Unity of the Thirty Kingdoms", "slot": 9, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_RBee_FigCle", "name": "Flying Trousers Prototype", "slot": 10, "level": 19, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_EManfish_FigWiz", "name": "Oystercrushers", "slot": 11, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "Crit Chance", "augments": [] },
+            { "id": "Finger_Z3RCraft_Cri", "name": "Set Eye of Precision", "slot": 12, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Vice"] },
+            { "id": "Trinket_Demon", "name": "Finger of Sukuna'Maatata", "slot": 13, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z3RCraft_Cri", "name": "Set Eye of Precision", "slot": 14, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Cursed Eye of Vice"] }
+      ],
+      "talents": [
+        { "name": "Hemorrhage", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Seasoned Soldier", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Bloodletting", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Exsanguination", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Fighting Spirit", "rank": 2, "branch": 1, "tier": 3 },
+        { "name": "Surge of Violence", "rank": 1, "branch": 1, "tier": 4 },
+        { "name": "Sever", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Red Tempo", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Exposed Essence", "rank": 1, "branch": 2, "tier": 3 },
+        { "name": "Rage Shield", "rank": 1, "branch": 3, "tier": 1 },
+        { "name": "Bloodfeast", "rank": 2, "branch": 3, "tier": 2 }
+      ] },
+    { "key": "f6fe0614b3251837", "uid": 107, "name": "Hero", "class": "Rogue", "level": 25, "talents_read": 1, "talent_points": 16,
+      "gear": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Head_RCrimson_AssCle", "name": "High-Ranking Official's Hat", "slot": 3, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Necklace_Z2_Ap", "name": "Necklace of Fracture", "slot": 4, "level": 16, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shoulders_RCrimson_AssCle", "name": "Noble Mantle", "slot": 5, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_RManfish_AssCle", "name": "Jacket of the Last Pirate", "slot": 6, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_RKobold_Ass", "name": "Mines Bartender's Towel", "slot": 7, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_RBee_FigAss", "name": "Gauntlets of the Royal Guard", "slot": 8, "level": 19, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Vitality"] },
+            { "id": "Waist_RManfish_AssWiz", "name": "Emblem of the Third Wave", "slot": 9, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_Z2U2_FigAss", "name": "Condensed Galligaskins of the Nomad", "slot": 10, "level": 23, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_RCrimson_Ass", "name": "Galoshes of Fortune", "slot": 11, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z2_Cri", "name": "Ringlet of Precision", "slot": 12, "level": 19, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "StoneOfCunning", "name": "Stone of Cunning", "slot": 13, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z2_Cri", "name": "Ringlet of Precision", "slot": 14, "level": 19, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+        { "name": "Lethal Poison", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Envenom", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Finish the Job", "rank": 1, "branch": 1, "tier": 2 },
+        { "name": "Powerful Toxins", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Deadly Poison", "rank": 2, "branch": 1, "tier": 3 },
+        { "name": "Opportunity Strike", "rank": 1, "branch": 1, "tier": 3 },
+        { "name": "Venomous Assassin", "rank": 1, "branch": 1, "tier": 4 },
+        { "name": "Acidic Splatter", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Up the Ante", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Bullying the Weak", "rank": 1, "branch": 2, "tier": 3 },
+        { "name": "Intent to Kill", "rank": 1, "branch": 2, "tier": 3 },
+        { "name": "Venom Infusion", "rank": 1, "branch": 2, "tier": 3 },
+        { "name": "Footwork", "rank": 1, "branch": 3, "tier": 1 }
+      ] },
+    { "key": "4ea8c4bc55a62cf2", "uid": 108, "name": "Player02", "class": "Warrior", "level": 19, "talents_read": 1, "talent_points": 10,
+      "gear": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 17, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] },
+            { "id": "GA_Craft", "name": "Judgement", "slot": 1, "level": 11, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 17, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Head_Z2U2_FigAss", "name": "Condensed Helmet of the Nomad", "slot": 3, "level": 18, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Necklace_Z2_Cri", "name": "Necklace of Precision", "slot": 4, "level": 17, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shoulders_Z2U1_FigAss", "name": "Condensed Pauldrons of the Adventurer", "slot": 5, "level": 15, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_RManfish_FigWiz", "name": "Fin Armor", "slot": 6, "level": 18, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_RCrimson_Fig", "name": "Crimson Wings", "slot": 7, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_RBee_FigAss", "name": "Gauntlets of the Royal Guard", "slot": 8, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_RCrimson_FigAss", "name": "Forbidden Insignia of Silence", "slot": 9, "level": 15, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_RKobold_Fig", "name": "Wrong Trousers", "slot": 10, "level": 7, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_RBee_Fig", "name": "Melain's Golden Greaves", "slot": 11, "level": 12, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Cri", "name": "Ring of Precision", "slot": 12, "level": 9, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Trinket_Crimson", "name": "Lost Relic Found", "slot": 13, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z2_Ap", "name": "Ringlet of Fracture", "slot": 14, "level": 10, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+        { "name": "Hemorrhage", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Seasoned Soldier", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Bloodletting", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Bruise", "rank": 1, "branch": 1, "tier": 3 },
+        { "name": "Fighting Spirit", "rank": 1, "branch": 1, "tier": 3 },
+        { "name": "Master-at-arms", "rank": 2, "branch": 1, "tier": 3 },
+        { "name": "Sever", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Rage Shield", "rank": 1, "branch": 3, "tier": 1 }
+      ] },
+    { "key": "5c5199c188381c5", "uid": 109, "name": "Player04", "class": "Priest", "level": 9, "talents_read": 1, "talent_points": 0,
+      "gear": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Halos_Totem", "name": "Ghost Clams of the Low Tide", "slot": 1, "level": 5, "upgrade": 2, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_RCrimson_FigCle", "name": "Breastplate of Recklessness", "slot": 6, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Back_Z1U1_Cle", "name": "Sacred Scarf of the Exile", "slot": 7, "level": 2, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Hands_RManfish_FigCle", "name": "Palm of the Lagoon", "slot": 8, "level": 5, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Waist_Z1U1_FigCle", "name": "Blessed Pteruge of the Exile", "slot": 9, "level": 6, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Legs_RManfish_Cle", "name": "High-speed Clamdiggers", "slot": 10, "level": 5, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Feet_Z1U1_FigCle", "name": "Blessed Warboots of the Exile", "slot": 11, "level": 3, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Trinket_Crimson", "name": "Lost Relic Found", "slot": 13, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+      ],
+      "talents": [
+      ] },
+    { "key": "da2e6ab19f31fb0", "uid": 110, "name": "Player10", "class": "Priest", "level": 25, "talents_read": 1, "talent_points": 16,
+      "gear": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Lifestealing"] },
+            { "id": "Staff_Censer", "name": "Censer of Wool Hollow", "slot": 1, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] },
+            { "id": "Head_EKobold_FigCle", "name": "Mobile Furnace", "slot": 3, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Manfish Support", "bonus": "Spell Penetration", "augments": ["Sigil of Bet'Hatesht"] },
+            { "id": "Necklace_Z2RCraft", "name": "Pendant of Adaptability", "slot": 4, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Strong Cut Agate"] },
+            { "id": "Shoulders_RDemon_Cle", "name": "Chaoswalker's Ailerons", "slot": 5, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Chest_EManfish_Cle", "name": "Nepsilon's Dressing Gown", "slot": 6, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Manfish Support", "bonus": "Spell Penetration", "augments": ["Divine Bronze Plate"] },
+            { "id": "Back_EBee_AssCle", "name": "Deluxe Replacement Wings", "slot": 7, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Bee DPS", "bonus": "Crit Chance", "augments": ["Reinforced Soft Embroidery"] },
+            { "id": "Hands_RManfish_FigCle", "name": "Palm of the Lagoon", "slot": 8, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Minor Faith"] },
+            { "id": "Waist_EKobold_FigCle", "name": "Reblochonk Toolbelt", "slot": 9, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "Bee DPS", "bonus": "Spell Penetration", "augments": [] },
+            { "id": "Legs_ECrimson_AssCle", "name": "Robin Hoof's Leggings", "slot": 10, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "Spell Penetration", "augments": [] },
+            { "id": "Feet_RDemon_AssCle", "name": "Worldsrunner Boots", "slot": 11, "level": 25, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Critical Chance"] },
+            { "id": "Finger_Z3RCraft_Fer", "name": "Set Eye of Zeal", "slot": 12, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Attuned Cut Beryl"] },
+            { "id": "Trinket_Bee_E", "name": "Eternal Flower Heart", "slot": 13, "level": 25, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Finger_Z3RCraft_Fer", "name": "Set Eye of Zeal", "slot": 14, "level": 0, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Attuned Cut Beryl"] }
+      ],
+      "talents": [
+        { "name": "Sunlight", "rank": 1, "branch": 0, "tier": 0 },
+        { "name": "Soothing Rays", "rank": 1, "branch": 1, "tier": 1 },
+        { "name": "Fervent Defender", "rank": 2, "branch": 1, "tier": 2 },
+        { "name": "Melting Faith", "rank": 1, "branch": 1, "tier": 3 },
+        { "name": "Purging Strikes", "rank": 1, "branch": 2, "tier": 1 },
+        { "name": "Might of the Executioner", "rank": 1, "branch": 2, "tier": 2 },
+        { "name": "Zealous Fighter", "rank": 2, "branch": 2, "tier": 2 },
+        { "name": "Pious Adept", "rank": 2, "branch": 2, "tier": 3 },
+        { "name": "Potent Fortitude", "rank": 1, "branch": 2, "tier": 3 },
+        { "name": "Swift Justice", "rank": 1, "branch": 3, "tier": 1 },
+        { "name": "Oppressive Rays", "rank": 1, "branch": 3, "tier": 2 },
+        { "name": "Piercing Light", "rank": 2, "branch": 3, "tier": 2 }
+      ] }
+  ],
+  "fights": [
+    {
+      "id": 312, "ended_unix_ms": 1793744490404,
+      "duration_sec": 7.71, "total_damage": 1531, "dps": 198.573,
+      "total_heal": 0, "hps": 0, "hit_count": 24,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Bow_Craft_Skill1",
+      "weapon_hand": "Credence", "weapon_hand_level": 17, "weapon_hand_upgrade": 3, "weapon_second": "Thornlace", "weapon_off": "",
+      "target_count": 1,
+      "targets": [
+        { "name": "Belzebeat", "total": 1531, "kills": 0, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 7, "players_total": 6023.0,
+      "players": [
+        { "uid": 110, "name": "Player10", "class": "Priest", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 1989.0, "max_hit": 397.0, "dps": 255.29, "active_sec": 7.79, "hit_count": 29, "crit_count": 3, "physical": 250.0, "magic": 1739.0, "raw": 0.0, "build": "da2e6ab19f31fb0",
+          "skills": [
+            { "skill": "Staff_Censer_Skill2", "hit_count": 1, "crit_count": 0, "total": 397.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 4, "crit_count": 0, "total": 334.0 },
+            { "skill": "Staff_Censer_Skill1", "hit_count": 2, "crit_count": 0, "total": 278.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 2, "crit_count": 0, "total": 159.0 },
+            { "skill": "Priest_RadiantVerdict", "hit_count": 2, "crit_count": 0, "total": 158.0 },
+            { "skill": "Priest_Prayer_Smite", "hit_count": 1, "crit_count": 0, "total": 157.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 1, "crit_count": 0, "total": 98.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 6, "crit_count": 2, "total": 91.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Lifestealing"] },
+            { "id": "Staff_Censer", "name": "Censer of Wool Hollow", "slot": 1, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 105, "name": "Player21", "class": "Priest", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 1965.0, "max_hit": 139.0, "dps": 267.17, "active_sec": 7.36, "hit_count": 46, "crit_count": 13, "physical": 495.0, "magic": 1470.0, "raw": 0.0, "build": "e694137e788898cd",
+          "skills": [
+            { "skill": "Mace_Benediction_Combo", "hit_count": 4, "crit_count": 3, "total": 360.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 4, "crit_count": 1, "total": 347.0 },
+            { "skill": "Mace_Benediction_Passive", "hit_count": 10, "crit_count": 1, "total": 329.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 3, "crit_count": 0, "total": 236.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 12, "crit_count": 0, "total": 232.0 },
+            { "skill": "Mace_Benediction_Skill1", "hit_count": 2, "crit_count": 1, "total": 220.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 10, "crit_count": 6, "total": 135.0 },
+            { "skill": "Scepter_Flamie_Skill1", "hit_count": 1, "crit_count": 1, "total": 106.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Zealot"] },
+            { "id": "Scepter_Flamie", "name": "Flame of Argol", "slot": 1, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 107, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 1531.0, "max_hit": 541.0, "dps": 197.88, "active_sec": 7.74, "hit_count": 24, "crit_count": 6, "physical": 1400.0, "magic": 98.0, "raw": 33.0, "build": "f6fe0614b3251837",
+          "skills": [
+            { "skill": "Bow_Craft_Skill1", "hit_count": 3, "crit_count": 2, "total": 1085.0 },
+            { "skill": "Bow_Craft_AttackCombo", "hit_count": 2, "crit_count": 1, "total": 178.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 8, "crit_count": 1, "total": 104.0 },
+            { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 10, "crit_count": 2, "total": 98.0 },
+            { "skill": "Bow_Craft_Skill2", "hit_count": 1, "crit_count": 0, "total": 66.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 100, "name": "Player18", "class": "Warrior", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 331.0, "max_hit": 331.0, "dps": 331.00, "active_sec": 1.00, "hit_count": 1, "crit_count": 1, "physical": 331.0, "magic": 0.0, "raw": 0.0, "build": "2a98ada87562f80f",
+          "skills": [
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 1, "crit_count": 1, "total": 331.0 }
+          ],
+          "weapons": [
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot", "Corrupted Gift"] },
+            { "id": "GA_Craft", "name": "Judgement", "slot": 1, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Lifestealing"] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 101, "name": "Player12", "class": "Warrior", "level": 12, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 127.0, "max_hit": 56.0, "dps": 62.47, "active_sec": 2.03, "hit_count": 6, "crit_count": 1, "physical": 39.0, "magic": 88.0, "raw": 0.0, "build": "7b65d6843e0acbb4",
+          "skills": [
+            { "skill": "Sword_Craft_Combo", "hit_count": 2, "crit_count": 1, "total": 57.0 },
+            { "skill": "Shield_OrbitWater_P", "hit_count": 1, "crit_count": 0, "total": 56.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 3, "crit_count": 0, "total": 14.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 9, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 9, "upgrade": 2, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 106, "name": "Player14", "class": "Warrior", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 58.0, "max_hit": 47.0, "dps": 58.00, "active_sec": 1.00, "hit_count": 2, "crit_count": 0, "physical": 11.0, "magic": 0.0, "raw": 47.0, "build": "576627d37ff86167",
+          "skills": [
+            { "skill": "Warrior_Hemorrhage", "hit_count": 1, "crit_count": 0, "total": 47.0 },
+            { "skill": "DA_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 11.0 }
+          ],
+          "weapons": [
+            { "id": "DA_Water", "name": "Iron Fins of the Leviathan", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "GS_Nova", "name": "Martyr of Enripit", "slot": 1, "level": 25, "upgrade": 0, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 102, "name": "Player13", "class": "Rogue", "level": 4, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 22.0, "max_hit": 11.0, "dps": 22.00, "active_sec": 1.00, "hit_count": 2, "crit_count": 0, "physical": 22.0, "magic": 0.0, "raw": 0.0, "build": "86d300b3dd83ac11",
+          "skills": [
+            { "skill": "Daggers_Start_Combo", "hit_count": 2, "crit_count": 0, "total": 22.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Bow_Craft_Skill1", "hit_count": 3, "total": 1085, "max_hit": 541, "crit_count": 2, "cast_count": 3, "physical": 1052, "magic": 0, "raw": 33 },
+        { "skill": "Bow_Craft_AttackCombo", "hit_count": 2, "total": 178, "max_hit": 111, "crit_count": 1, "cast_count": 3, "physical": 178, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Base_Attack", "hit_count": 8, "total": 104, "max_hit": 18, "crit_count": 1, "cast_count": 18, "physical": 104, "magic": 0, "raw": 0 },
+        { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 10, "total": 98, "max_hit": 16, "crit_count": 2, "cast_count": 0, "physical": 0, "magic": 98, "raw": 0 },
+        { "skill": "Bow_Craft_Skill2", "hit_count": 1, "total": 66, "max_hit": 66, "crit_count": 0, "cast_count": 2, "physical": 66, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 311, "ended_unix_ms": 1793744467347,
+      "duration_sec": 3.519, "total_damage": 489, "dps": 138.96,
+      "total_heal": 0, "hps": 0, "hit_count": 13,
+      "total_shield": 123.437, "sps": 35.0773,
+      "top_skill": "Bow_Craft_Skill1",
+      "weapon_hand": "Credence", "weapon_hand_level": 17, "weapon_hand_upgrade": 3, "weapon_second": "Thornlace", "weapon_off": "",
+      "target_count": 1,
+      "targets": [
+        { "name": "Belzebeat", "total": 489, "kills": 0, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 7, "players_total": 3746.0,
+      "players": [
+        { "uid": 110, "name": "Player10", "class": "Priest", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 779.0, "max_hit": 271.0, "dps": 233.09, "active_sec": 3.34, "hit_count": 12, "crit_count": 4, "physical": 136.0, "magic": 643.0, "raw": 0.0, "build": "da2e6ab19f31fb0",
+          "skills": [
+            { "skill": "Priest_Prayer_Smite", "hit_count": 1, "crit_count": 1, "total": 271.0 },
+            { "skill": "Infusion_Bee_DPS", "hit_count": 2, "crit_count": 0, "total": 112.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 1, "crit_count": 0, "total": 108.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 1, "crit_count": 0, "total": 89.0 },
+            { "skill": "Staff_Censer_Skill2", "hit_count": 1, "crit_count": 1, "total": 77.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 3, "crit_count": 0, "total": 51.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 2, "crit_count": 2, "total": 47.0 },
+            { "skill": "Enchant_Lifestealing", "hit_count": 1, "crit_count": 0, "total": 24.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Lifestealing"] },
+            { "id": "Staff_Censer", "name": "Censer of Wool Hollow", "slot": 1, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 109, "name": "Player04", "class": "Priest", "level": 9, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 738.0, "max_hit": 100.0, "dps": 96.11, "active_sec": 7.68, "hit_count": 17, "crit_count": 2, "physical": 0.0, "magic": 738.0, "raw": 0.0, "build": "5c5199c188381c5",
+          "skills": [
+            { "skill": "Halos_Demon_Skill2", "hit_count": 3, "crit_count": 0, "total": 292.0 },
+            { "skill": "Halos_Demon_Skill1", "hit_count": 3, "crit_count": 1, "total": 228.0 },
+            { "skill": "Priest_Prayer_Smite", "hit_count": 2, "crit_count": 0, "total": 92.0 },
+            { "skill": "Halos_Demon_Combo", "hit_count": 3, "crit_count": 1, "total": 89.0 },
+            { "skill": "Halos_Base_Attack", "hit_count": 6, "crit_count": 0, "total": 37.0 }
+          ],
+          "weapons": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Halos_Totem", "name": "Ghost Clams of the Low Tide", "slot": 1, "level": 5, "upgrade": 2, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 105, "name": "Player21", "class": "Priest", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 695.0, "max_hit": 119.0, "dps": 208.08, "active_sec": 3.34, "hit_count": 22, "crit_count": 7, "physical": 153.0, "magic": 542.0, "raw": 0.0, "build": "e694137e788898cd",
+          "skills": [
+            { "skill": "Mace_Benediction_Passive", "hit_count": 5, "crit_count": 1, "total": 180.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 6, "crit_count": 0, "total": 122.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 1, "crit_count": 1, "total": 119.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 5, "crit_count": 5, "total": 85.0 },
+            { "skill": "Scepter_Flamie_Skill1", "hit_count": 1, "crit_count": 0, "total": 75.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 1, "crit_count": 0, "total": 68.0 },
+            { "skill": "Priest_RadiantVerdict", "hit_count": 1, "crit_count": 0, "total": 28.0 },
+            { "skill": "Priest_Talent_BurningRays", "hit_count": 2, "crit_count": 0, "total": 18.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Zealot"] },
+            { "id": "Scepter_Flamie", "name": "Flame of Argol", "slot": 1, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 106, "name": "Player14", "class": "Warrior", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 690.0, "max_hit": 486.0, "dps": 139.20, "active_sec": 4.96, "hit_count": 7, "crit_count": 1, "physical": 688.0, "magic": 0.0, "raw": 2.0, "build": "576627d37ff86167",
+          "skills": [
+            { "skill": "GS_Nova_Ultimate", "hit_count": 1, "crit_count": 0, "total": 486.0 },
+            { "skill": "DA_Water_Skill2", "hit_count": 1, "crit_count": 0, "total": 149.0 },
+            { "skill": "DA_Base_Attack", "hit_count": 4, "crit_count": 1, "total": 53.0 },
+            { "skill": "Warrior_Hemorrhage", "hit_count": 1, "crit_count": 0, "total": 2.0 }
+          ],
+          "weapons": [
+            { "id": "DA_Water", "name": "Iron Fins of the Leviathan", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "GS_Nova", "name": "Martyr of Enripit", "slot": 1, "level": 25, "upgrade": 0, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 107, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 489.0, "max_hit": 211.0, "dps": 140.15, "active_sec": 3.49, "hit_count": 13, "crit_count": 3, "physical": 421.0, "magic": 68.0, "raw": 0.0, "build": "f6fe0614b3251837",
+          "skills": [
+            { "skill": "Bow_Craft_Skill1", "hit_count": 1, "crit_count": 0, "total": 211.0 },
+            { "skill": "Rogue_Shadowstep", "hit_count": 2, "crit_count": 0, "total": 76.0 },
+            { "skill": "Bow_Craft_Skill2", "hit_count": 1, "crit_count": 0, "total": 68.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 4, "crit_count": 3, "total": 66.0 },
+            { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 4, "crit_count": 0, "total": 42.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 1, "crit_count": 0, "total": 26.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 100, "name": "Player18", "class": "Warrior", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 352.0, "max_hit": 352.0, "dps": 352.00, "active_sec": 1.00, "hit_count": 1, "crit_count": 1, "physical": 352.0, "magic": 0.0, "raw": 0.0, "build": "2a98ada87562f80f",
+          "skills": [
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 1, "crit_count": 1, "total": 352.0 }
+          ],
+          "weapons": [
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot", "Corrupted Gift"] },
+            { "id": "GA_Craft", "name": "Judgement", "slot": 1, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Lifestealing"] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 102, "name": "Player13", "class": "Rogue", "level": 4, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 3.0, "max_hit": 3.0, "dps": 3.00, "active_sec": 1.00, "hit_count": 1, "crit_count": 0, "physical": 3.0, "magic": 0.0, "raw": 0.0, "build": "86d300b3dd83ac11",
+          "skills": [
+            { "skill": "Daggers_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 3.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Bow_Craft_Skill1", "hit_count": 1, "total": 211, "max_hit": 211, "crit_count": 0, "cast_count": 1, "physical": 211, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 2, "total": 76, "max_hit": 38, "crit_count": 0, "cast_count": 2, "physical": 76, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Craft_Skill2", "hit_count": 1, "total": 68, "max_hit": 68, "crit_count": 0, "cast_count": 1, "physical": 68, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Base_Attack", "hit_count": 4, "total": 66, "max_hit": 19, "crit_count": 3, "cast_count": 7, "physical": 66, "magic": 0, "raw": 0 },
+        { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 4, "total": 42, "max_hit": 11, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 42, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 1, "total": 26, "max_hit": 26, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 26, "raw": 0 }
+      ],
+      "heal_rows": [
+      ],
+      "shield_rows": [
+        { "skill": "Priest_Prayer_Shield_Status", "hit_count": 1, "total": 123.437, "max_hit": 123.437, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ]
+    },
+    {
+      "id": 310, "ended_unix_ms": 1793744439610,
+      "duration_sec": 9.89, "total_damage": 1366, "dps": 138.119,
+      "total_heal": 0, "hps": 0, "hit_count": 39,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Bow_Craft_Skill1",
+      "weapon_hand": "Credence", "weapon_hand_level": 17, "weapon_hand_upgrade": 3, "weapon_second": "Thornlace", "weapon_off": "",
+      "target_count": 1,
+      "targets": [
+        { "name": "Belzebeat", "total": 1366, "kills": 0, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 9, "players_total": 8181.0,
+      "players": [
+        { "uid": 110, "name": "Player10", "class": "Priest", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 2937.0, "max_hit": 605.0, "dps": 296.04, "active_sec": 9.92, "hit_count": 48, "crit_count": 13, "physical": 433.0, "magic": 2504.0, "raw": 0.0, "build": "da2e6ab19f31fb0",
+          "skills": [
+            { "skill": "Staff_Censer_Skill2", "hit_count": 1, "crit_count": 1, "total": 605.0 },
+            { "skill": "Priest_Prayer_Smite", "hit_count": 2, "crit_count": 0, "total": 325.0 },
+            { "skill": "Priest_RadiantVerdict", "hit_count": 5, "crit_count": 1, "total": 309.0 },
+            { "skill": "Staff_Censer_Skill1", "hit_count": 3, "crit_count": 0, "total": 302.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 3, "crit_count": 0, "total": 246.0 },
+            { "skill": "Infusion_Bee_DPS", "hit_count": 5, "crit_count": 0, "total": 233.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 10, "crit_count": 7, "total": 187.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 2, "crit_count": 0, "total": 174.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Lifestealing"] },
+            { "id": "Staff_Censer", "name": "Censer of Wool Hollow", "slot": 1, "level": 25, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 108, "name": "Player02", "class": "Warrior", "level": 19, "self": 0, "group": 0, "talents_read": 1, "talent_points": 10, "total": 1465.0, "max_hit": 194.0, "dps": 97.39, "active_sec": 15.04, "hit_count": 34, "crit_count": 6, "physical": 1223.0, "magic": 61.0, "raw": 181.0, "build": "4ea8c4bc55a62cf2",
+          "skills": [
+            { "skill": "Sword_Craft_Skill1", "hit_count": 3, "crit_count": 1, "total": 434.0 },
+            { "skill": "Warrior_Rage_Strike", "hit_count": 4, "crit_count": 0, "total": 356.0 },
+            { "skill": "Sword_Craft_Combo", "hit_count": 3, "crit_count": 2, "total": 184.0 },
+            { "skill": "Warrior_Hemorrhage", "hit_count": 7, "crit_count": 0, "total": 181.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 15, "crit_count": 3, "total": 127.0 },
+            { "skill": "Shield_Craft_Passive", "hit_count": 1, "crit_count": 0, "total": 116.0 },
+            { "skill": "Warrior_Charge", "hit_count": 1, "crit_count": 0, "total": 67.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 17, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] },
+            { "id": "GA_Craft", "name": "Judgement", "slot": 1, "level": 11, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 17, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 107, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 1366.0, "max_hit": 264.0, "dps": 137.94, "active_sec": 9.90, "hit_count": 39, "crit_count": 3, "physical": 861.0, "magic": 505.0, "raw": 0.0, "build": "f6fe0614b3251837",
+          "skills": [
+            { "skill": "Bow_Craft_Skill1", "hit_count": 2, "crit_count": 0, "total": 475.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 12, "crit_count": 0, "total": 157.0 },
+            { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 13, "crit_count": 2, "total": 153.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 4, "crit_count": 1, "total": 148.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 2, "crit_count": 0, "total": 113.0 },
+            { "skill": "Rogue_Shadowstep", "hit_count": 2, "crit_count": 0, "total": 94.0 },
+            { "skill": "Rogue_Talent_LethalPoison", "hit_count": 2, "crit_count": 0, "total": 91.0 },
+            { "skill": "Bow_Craft_AttackCombo", "hit_count": 1, "crit_count": 0, "total": 69.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 105, "name": "Player21", "class": "Priest", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 958.0, "max_hit": 123.0, "dps": 199.29, "active_sec": 4.81, "hit_count": 24, "crit_count": 5, "physical": 243.0, "magic": 715.0, "raw": 0.0, "build": "e694137e788898cd",
+          "skills": [
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 4, "crit_count": 0, "total": 315.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 2, "crit_count": 0, "total": 134.0 },
+            { "skill": "Mace_Benediction_Passive", "hit_count": 4, "crit_count": 0, "total": 131.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 1, "crit_count": 1, "total": 123.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 8, "crit_count": 4, "total": 109.0 },
+            { "skill": "Scepter_Flamie_Skill1", "hit_count": 1, "crit_count": 0, "total": 74.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 3, "crit_count": 0, "total": 63.0 },
+            { "skill": "Priest_Talent_BurningRays", "hit_count": 1, "crit_count": 0, "total": 9.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Zealot"] },
+            { "id": "Scepter_Flamie", "name": "Flame of Argol", "slot": 1, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Corrupted Gift"] }
+          ] },
+        { "uid": 109, "name": "Player04", "class": "Priest", "level": 9, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 527.0, "max_hit": 101.0, "dps": 75.94, "active_sec": 6.94, "hit_count": 14, "crit_count": 0, "physical": 0.0, "magic": 527.0, "raw": 0.0, "build": "5c5199c188381c5",
+          "skills": [
+            { "skill": "Halos_Demon_Skill2", "hit_count": 3, "crit_count": 0, "total": 298.0 },
+            { "skill": "Halos_Demon_Combo", "hit_count": 4, "crit_count": 0, "total": 102.0 },
+            { "skill": "Priest_Prayer_Smite", "hit_count": 2, "crit_count": 0, "total": 94.0 },
+            { "skill": "Halos_Base_Attack", "hit_count": 5, "crit_count": 0, "total": 33.0 }
+          ],
+          "weapons": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 9, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Halos_Totem", "name": "Ghost Clams of the Low Tide", "slot": 1, "level": 5, "upgrade": 2, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 104, "name": "Player03", "class": "Priest", "level": 19, "self": 0, "group": 0, "talents_read": 1, "talent_points": 9, "total": 469.0, "max_hit": 97.0, "dps": 33.03, "active_sec": 14.20, "hit_count": 20, "crit_count": 3, "physical": 191.0, "magic": 278.0, "raw": 0.0, "build": "f94de2d178907dbf",
+          "skills": [
+            { "skill": "Priest_Prayer_Smite", "hit_count": 2, "crit_count": 0, "total": 122.0 },
+            { "skill": "Sword_Craft_Skill1", "hit_count": 1, "crit_count": 0, "total": 97.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 3, "crit_count": 1, "total": 91.0 },
+            { "skill": "Sword_Craft_Combo", "hit_count": 2, "crit_count": 0, "total": 74.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 8, "crit_count": 1, "total": 54.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 4, "crit_count": 1, "total": 31.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 18, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 18, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 106, "name": "Player14", "class": "Warrior", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 385.0, "max_hit": 253.0, "dps": 385.00, "active_sec": 1.00, "hit_count": 3, "crit_count": 1, "physical": 385.0, "magic": 0.0, "raw": 0.0, "build": "576627d37ff86167",
+          "skills": [
+            { "skill": "DA_Water_Skill2", "hit_count": 1, "crit_count": 1, "total": 253.0 },
+            { "skill": "Warrior_Charge", "hit_count": 1, "crit_count": 0, "total": 119.0 },
+            { "skill": "DA_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 13.0 }
+          ],
+          "weapons": [
+            { "id": "DA_Water", "name": "Iron Fins of the Leviathan", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "GS_Nova", "name": "Martyr of Enripit", "slot": 1, "level": 25, "upgrade": 0, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 103, "name": "Player01", "class": "Rogue", "level": 3, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 39.0, "max_hit": 39.0, "dps": 39.00, "active_sec": 1.00, "hit_count": 1, "crit_count": 0, "physical": 39.0, "magic": 0.0, "raw": 0.0, "build": "65450db80ab5fb22",
+          "skills": [
+            { "skill": "Rogue_Sig_Finisher", "hit_count": 1, "crit_count": 0, "total": 39.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 101, "name": "Player12", "class": "Warrior", "level": 12, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 35.0, "max_hit": 31.0, "dps": 35.00, "active_sec": 1.00, "hit_count": 2, "crit_count": 0, "physical": 4.0, "magic": 31.0, "raw": 0.0, "build": "7b65d6843e0acbb4",
+          "skills": [
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 1, "crit_count": 0, "total": 31.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 4.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Craft", "name": "Glory", "slot": 0, "level": 9, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 9, "upgrade": 2, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Bow_Craft_Skill1", "hit_count": 2, "total": 475, "max_hit": 264, "crit_count": 0, "cast_count": 2, "physical": 475, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Base_Attack", "hit_count": 12, "total": 157, "max_hit": 15, "crit_count": 0, "cast_count": 13, "physical": 157, "magic": 0, "raw": 0 },
+        { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 13, "total": 153, "max_hit": 19, "crit_count": 2, "cast_count": 0, "physical": 0, "magic": 153, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 4, "total": 148, "max_hit": 49, "crit_count": 1, "cast_count": 0, "physical": 0, "magic": 148, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 2, "total": 113, "max_hit": 57, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 113, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 2, "total": 94, "max_hit": 47, "crit_count": 0, "cast_count": 2, "physical": 94, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 2, "total": 91, "max_hit": 46, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 91, "raw": 0 },
+        { "skill": "Bow_Craft_AttackCombo", "hit_count": 1, "total": 69, "max_hit": 69, "crit_count": 0, "cast_count": 2, "physical": 69, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Craft_Skill2", "hit_count": 1, "total": 66, "max_hit": 66, "crit_count": 0, "cast_count": 2, "physical": 66, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 309, "ended_unix_ms": 1793670066593,
+      "duration_sec": 12.578, "total_damage": 1729, "dps": 137.462,
+      "total_heal": 85.7644, "hps": 6.8186, "hit_count": 35,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Daggers_DuplicatePoison_Skill1",
+      "weapon_hand": "Twin Fangs of Ratsar", "weapon_hand_level": 25, "weapon_hand_upgrade": 3, "weapon_second": "Cheese Moon", "weapon_off": "",
+      "target_count": 1,
+      "targets": [
+        { "name": "Munster Chuck", "total": 1729, "kills": 0, "rank": 3 }
+      ],
+      "favorite": 0, "player_count": 1, "players_total": 1729.0,
+      "players": [
+        { "uid": 111, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 1729.0, "max_hit": 221.0, "dps": 137.46, "active_sec": 12.58, "hit_count": 35, "crit_count": 7, "physical": 1076.0, "magic": 0.0, "raw": 653.0, "build": "0",
+          "skills": [
+            { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 5, "crit_count": 1, "total": 744.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 3, "crit_count": 0, "total": 293.0 },
+            { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 6, "crit_count": 1, "total": 235.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 14, "crit_count": 3, "total": 171.0 },
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 5, "crit_count": 2, "total": 137.0 },
+            { "skill": "Rogue_KnivesTempest", "hit_count": 1, "crit_count": 0, "total": 99.0 },
+            { "skill": "Rogue_Shadowstep", "hit_count": 1, "crit_count": 0, "total": 50.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_DuplicatePoison", "name": "Twin Fangs of Ratsar", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 1, "level": 7, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 5, "total": 744, "max_hit": 221, "crit_count": 1, "cast_count": 1, "physical": 91, "magic": 0, "raw": 653 },
+        { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 3, "total": 293, "max_hit": 100, "crit_count": 0, "cast_count": 3, "physical": 293, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 6, "total": 235, "max_hit": 57, "crit_count": 1, "cast_count": 0, "physical": 235, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_Base_Attack", "hit_count": 14, "total": 171, "max_hit": 18, "crit_count": 3, "cast_count": 16, "physical": 171, "magic": 0, "raw": 0 },
+        { "skill": "Axe_Boomerang_Skill1", "hit_count": 5, "total": 137, "max_hit": 104, "crit_count": 2, "cast_count": 1, "physical": 137, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_KnivesTempest", "hit_count": 1, "total": 99, "max_hit": 99, "crit_count": 0, "cast_count": 2, "physical": 99, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 1, "total": 50, "max_hit": 50, "crit_count": 0, "cast_count": 2, "physical": 50, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Axe_Boomerang_Skill_Passive", "hit_count": 2, "total": 85.7644, "max_hit": 42.9476, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 308, "ended_unix_ms": 1793670021458,
+      "duration_sec": 52.491, "total_damage": 11139, "dps": 212.208,
+      "total_heal": 563.355, "hps": 10.7324, "hit_count": 170,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Daggers_DuplicatePoison_Skill1",
+      "weapon_hand": "Twin Fangs of Ratsar", "weapon_hand_level": 25, "weapon_hand_upgrade": 3, "weapon_second": "Cheese Moon", "weapon_off": "",
+      "target_count": 1,
+      "targets": [
+        { "name": "Munster Chuck", "total": 11139, "kills": 0, "rank": 3 }
+      ],
+      "favorite": 0, "player_count": 1, "players_total": 11139.0,
+      "players": [
+        { "uid": 111, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 11139.0, "max_hit": 307.0, "dps": 212.08, "active_sec": 52.52, "hit_count": 170, "crit_count": 40, "physical": 6871.0, "magic": 2190.0, "raw": 2078.0, "build": "0",
+          "skills": [
+            { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 15, "crit_count": 4, "total": 2439.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 31, "crit_count": 6, "total": 2275.0 },
+            { "skill": "Rogue_Talent_LethalPoison", "hit_count": 26, "crit_count": 5, "total": 2259.0 },
+            { "skill": "Rogue_Sig_Finisher", "hit_count": 4, "crit_count": 1, "total": 1106.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 9, "crit_count": 2, "total": 590.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 16, "crit_count": 2, "total": 582.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 39, "crit_count": 16, "total": 557.0 },
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 18, "crit_count": 4, "total": 533.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_DuplicatePoison", "name": "Twin Fangs of Ratsar", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 1, "level": 7, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 15, "total": 2439, "max_hit": 255, "crit_count": 4, "cast_count": 3, "physical": 361, "magic": 0, "raw": 2078 },
+        { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 31, "total": 2275, "max_hit": 166, "crit_count": 6, "cast_count": 13, "physical": 2275, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 26, "total": 2259, "max_hit": 307, "crit_count": 5, "cast_count": 0, "physical": 1241, "magic": 1018, "raw": 0 },
+        { "skill": "Rogue_Sig_Finisher", "hit_count": 4, "total": 1106, "max_hit": 303, "crit_count": 1, "cast_count": 4, "physical": 1106, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 9, "total": 590, "max_hit": 80, "crit_count": 2, "cast_count": 0, "physical": 0, "magic": 590, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 16, "total": 582, "max_hit": 51, "crit_count": 2, "cast_count": 0, "physical": 0, "magic": 582, "raw": 0 },
+        { "skill": "Daggers_Base_Attack", "hit_count": 39, "total": 557, "max_hit": 23, "crit_count": 16, "cast_count": 45, "physical": 557, "magic": 0, "raw": 0 },
+        { "skill": "Axe_Boomerang_Skill1", "hit_count": 18, "total": 533, "max_hit": 125, "crit_count": 4, "cast_count": 4, "physical": 533, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_KnivesTempest", "hit_count": 4, "total": 418, "max_hit": 111, "crit_count": 0, "cast_count": 4, "physical": 418, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 4, "total": 212, "max_hit": 57, "crit_count": 0, "cast_count": 4, "physical": 212, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 4, "total": 168, "max_hit": 48, "crit_count": 0, "cast_count": 4, "physical": 168, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Axe_Boomerang_Skill_Passive", "hit_count": 7, "total": 318.151, "max_hit": 64.458, "crit_count": 1, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_LeechingPoison_Status", "hit_count": 26, "total": 245.204, "max_hit": 9.44855, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 307, "ended_unix_ms": 1793669881643,
+      "duration_sec": 11.077, "total_damage": 2778, "dps": 250.79,
+      "total_heal": 127.548, "hps": 11.5147, "hit_count": 41,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Daggers_DuplicatePoison_Skill1",
+      "weapon_hand": "Twin Fangs of Ratsar", "weapon_hand_level": 25, "weapon_hand_upgrade": 3, "weapon_second": "Cheese Moon", "weapon_off": "",
+      "target_count": 3,
+      "targets": [
+        { "name": "Cleanhanded Kobold Thief", "total": 1248, "kills": 2, "rank": 0 },
+        { "name": "Kobold Crusher", "total": 1006, "kills": 1, "rank": 0 },
+        { "name": "Lunatic Kobold Overseer", "total": 524, "kills": 1, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 6, "players_total": 5969.0,
+      "players": [
+        { "uid": 112, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 2778.0, "max_hit": 315.0, "dps": 250.16, "active_sec": 11.11, "hit_count": 41, "crit_count": 7, "physical": 2118.0, "magic": 147.0, "raw": 513.0, "build": "0",
+          "skills": [
+            { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 4, "crit_count": 1, "total": 620.0 },
+            { "skill": "Rogue_Sig_Finisher", "hit_count": 2, "crit_count": 0, "total": 580.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 6, "crit_count": 0, "total": 492.0 },
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 9, "crit_count": 1, "total": 428.0 },
+            { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 5, "crit_count": 4, "total": 325.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 13, "crit_count": 1, "total": 186.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 2, "crit_count": 0, "total": 147.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_DuplicatePoison", "name": "Twin Fangs of Ratsar", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 1, "level": 7, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 113, "name": "Player11", "class": "Priest", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 1951.0, "max_hit": 124.0, "dps": 109.90, "active_sec": 17.75, "hit_count": 66, "crit_count": 22, "physical": 451.0, "magic": 1500.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Priest_RadiantVerdict", "hit_count": 9, "crit_count": 2, "total": 433.0 },
+            { "skill": "Mace_Benediction_Passive", "hit_count": 12, "crit_count": 2, "total": 348.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 24, "crit_count": 16, "total": 324.0 },
+            { "skill": "GM_MassGrab_Passive", "hit_count": 5, "crit_count": 0, "total": 238.0 },
+            { "skill": "Mace_Benediction_Skill1", "hit_count": 3, "crit_count": 0, "total": 233.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 2, "crit_count": 0, "total": 127.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 2, "crit_count": 0, "total": 124.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 9, "crit_count": 2, "total": 124.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 24, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "GM_MassGrab", "name": "Pocket Hive", "slot": 1, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 8, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 114, "name": "Player05", "class": "Priest", "level": 13, "self": 0, "group": 0, "talents_read": 1, "talent_points": 4, "total": 996.0, "max_hit": 117.0, "dps": 206.42, "active_sec": 4.83, "hit_count": 36, "crit_count": 1, "physical": 217.0, "magic": 779.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Spear_Eruption_Skill2", "hit_count": 6, "crit_count": 0, "total": 384.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 10, "crit_count": 0, "total": 270.0 },
+            { "skill": "Sword_Swarm_Skill1", "hit_count": 2, "crit_count": 0, "total": 178.0 },
+            { "skill": "Sword_Swarm_Passive", "hit_count": 11, "crit_count": 0, "total": 125.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 7, "crit_count": 1, "total": 39.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Swarm", "name": "Beefury, Blessed Blade of the Farseeker", "slot": 0, "level": 13, "upgrade": 2, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Spear_Eruption", "name": "Gorgon Ratsay's Toothpick", "slot": 1, "level": 10, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 8, "upgrade": 1, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 115, "name": "Player19", "class": "Mage", "level": 13, "self": 0, "group": 0, "talents_read": 1, "talent_points": 4, "total": 141.0, "max_hit": 80.0, "dps": 64.38, "active_sec": 2.19, "hit_count": 5, "crit_count": 0, "physical": 10.0, "magic": 131.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Spear_Goo_Skill2", "hit_count": 1, "crit_count": 0, "total": 80.0 },
+            { "skill": "Mage_Conduit_Projectile", "hit_count": 2, "crit_count": 0, "total": 28.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 1, "crit_count": 0, "total": 23.0 },
+            { "skill": "DS_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 10.0 }
+          ],
+          "weapons": [
+            { "id": "DS_Z1RBee_AssWiz", "name": "Wingsabers", "slot": 0, "level": 13, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Spear_Goo", "name": "Lady Bee's Ceremonial Stinger", "slot": 1, "level": 12, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 116, "name": "Player08", "class": "Priest", "level": 15, "self": 0, "group": 0, "talents_read": 1, "talent_points": 4, "total": 59.0, "max_hit": 39.0, "dps": 59.00, "active_sec": 1.00, "hit_count": 2, "crit_count": 1, "physical": 39.0, "magic": 20.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Sword_Swarm_Combo", "hit_count": 1, "crit_count": 0, "total": 39.0 },
+            { "skill": "Sword_Swarm_Passive", "hit_count": 1, "crit_count": 1, "total": 20.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Swarm", "name": "Beefury, Blessed Blade of the Farseeker", "slot": 0, "level": 13, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Halos_Totem", "name": "Ghost Clams of the Low Tide", "slot": 1, "level": 5, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_Craft", "name": "Dominion", "slot": 2, "level": 15, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 117, "name": "Player20", "class": "Mage", "level": 24, "self": 0, "group": 0, "talents_read": 1, "talent_points": 15, "total": 44.0, "max_hit": 26.0, "dps": 44.00, "active_sec": 1.00, "hit_count": 2, "crit_count": 1, "physical": 0.0, "magic": 44.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Staff_Base_Attack", "hit_count": 2, "crit_count": 1, "total": 44.0 }
+          ],
+          "weapons": [
+            { "id": "Staff_SummonDemon", "name": "Silhouette of Almaz", "slot": 0, "level": 24, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 1, "level": 17, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 4, "total": 620, "max_hit": 221, "crit_count": 1, "cast_count": 1, "physical": 107, "magic": 0, "raw": 513 },
+        { "skill": "Rogue_Sig_Finisher", "hit_count": 2, "total": 580, "max_hit": 315, "crit_count": 0, "cast_count": 1, "physical": 580, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 6, "total": 492, "max_hit": 128, "crit_count": 0, "cast_count": 4, "physical": 492, "magic": 0, "raw": 0 },
+        { "skill": "Axe_Boomerang_Skill1", "hit_count": 9, "total": 428, "max_hit": 145, "crit_count": 1, "cast_count": 1, "physical": 428, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 5, "total": 325, "max_hit": 73, "crit_count": 4, "cast_count": 3, "physical": 325, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_Base_Attack", "hit_count": 13, "total": 186, "max_hit": 19, "crit_count": 1, "cast_count": 17, "physical": 186, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 2, "total": 147, "max_hit": 76, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 147, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Axe_Boomerang_Skill_Passive", "hit_count": 2, "total": 127.548, "max_hit": 64.0672, "crit_count": 2, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 306, "ended_unix_ms": 1793669270035,
+      "duration_sec": 302.137, "total_damage": 55400, "dps": 183.361,
+      "total_heal": 2734.15, "hps": 9.04936, "hit_count": 891,
+      "total_shield": 941.538, "sps": 3.11626,
+      "top_skill": "Rogue_Talent_LethalPoison",
+      "weapon_hand": "Twin Fangs of Ratsar", "weapon_hand_level": 25, "weapon_hand_upgrade": 3, "weapon_second": "Cheese Moon", "weapon_off": "",
+      "target_count": 2,
+      "targets": [
+        { "name": "Munster Chuck", "total": 43881, "kills": 1, "rank": 3 },
+        { "name": "Stationmaster", "total": 11519, "kills": 3, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 2, "players_total": 89052.0,
+      "players": [
+        { "uid": 111, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 55400.0, "max_hit": 499.0, "dps": 183.38, "active_sec": 302.11, "hit_count": 891, "crit_count": 190, "physical": 33993.0, "magic": 14485.0, "raw": 6922.0, "build": "0",
+          "skills": [
+            { "skill": "Rogue_Talent_LethalPoison", "hit_count": 127, "crit_count": 22, "total": 10768.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 53, "crit_count": 11, "total": 8281.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 90, "crit_count": 12, "total": 7389.0 },
+            { "skill": "Rogue_Sig_Finisher", "hit_count": 19, "crit_count": 7, "total": 6643.0 },
+            { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 66, "crit_count": 4, "total": 4500.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 91, "crit_count": 22, "total": 4134.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 55, "crit_count": 6, "total": 4023.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 227, "crit_count": 61, "total": 3285.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_DuplicatePoison", "name": "Twin Fangs of Ratsar", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 1, "level": 7, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 118, "name": "Player06", "class": "Mage", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 33652.0, "max_hit": 589.0, "dps": 111.91, "active_sec": 300.71, "hit_count": 351, "crit_count": 152, "physical": 0.0, "magic": 33652.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Halos_Demon_Skill1", "hit_count": 27, "crit_count": 4, "total": 7249.0 },
+            { "skill": "Halos_Demon_Combo", "hit_count": 36, "crit_count": 17, "total": 6031.0 },
+            { "skill": "Halos_Demon_Skill2", "hit_count": 14, "crit_count": 5, "total": 5532.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 67, "crit_count": 13, "total": 4622.0 },
+            { "skill": "Staff_Craft_S1", "hit_count": 21, "crit_count": 2, "total": 3910.0 },
+            { "skill": "Staff_Craft_S2", "hit_count": 105, "crit_count": 105, "total": 1941.0 },
+            { "skill": "Halos_Base_Attack", "hit_count": 67, "crit_count": 6, "total": 1574.0 },
+            { "skill": "Mage_StaticNova", "hit_count": 8, "crit_count": 0, "total": 1401.0 }
+          ],
+          "weapons": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 1, "level": 18, "upgrade": 2, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 127, "total": 10768, "max_hit": 350, "crit_count": 22, "cast_count": 0, "physical": 4440, "magic": 6328, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 53, "total": 8281, "max_hit": 255, "crit_count": 11, "cast_count": 11, "physical": 1359, "magic": 0, "raw": 6922 },
+        { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 90, "total": 7389, "max_hit": 197, "crit_count": 12, "cast_count": 59, "physical": 7389, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Sig_Finisher", "hit_count": 19, "total": 6643, "max_hit": 499, "crit_count": 7, "cast_count": 18, "physical": 6643, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 66, "total": 4500, "max_hit": 133, "crit_count": 4, "cast_count": 0, "physical": 4500, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 91, "total": 4134, "max_hit": 70, "crit_count": 22, "cast_count": 0, "physical": 0, "magic": 4134, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 55, "total": 4023, "max_hit": 118, "crit_count": 6, "cast_count": 0, "physical": 0, "magic": 4023, "raw": 0 },
+        { "skill": "Daggers_Base_Attack", "hit_count": 227, "total": 3285, "max_hit": 24, "crit_count": 61, "cast_count": 273, "physical": 3285, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 48, "total": 2683, "max_hit": 82, "crit_count": 21, "cast_count": 29, "physical": 2683, "magic": 0, "raw": 0 },
+        { "skill": "Axe_Boomerang_Skill1", "hit_count": 96, "total": 2466, "max_hit": 149, "crit_count": 17, "cast_count": 17, "physical": 2466, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 19, "total": 1228, "max_hit": 100, "crit_count": 7, "cast_count": 20, "physical": 1228, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Axe_Boomerang_Skill_Passive", "hit_count": 33, "total": 1462.03, "max_hit": 64.458, "crit_count": 3, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_LeechingPoison_Status", "hit_count": 135, "total": 1272.12, "max_hit": 9.44855, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+        { "skill": "Halos_Demon_Skill1_Shield", "hit_count": 17, "total": 941.538, "max_hit": 55.7705, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ]
+    },
+    {
+      "id": 305, "ended_unix_ms": 1793668804856,
+      "duration_sec": 19.281, "total_damage": 4501, "dps": 233.442,
+      "total_heal": 168.785, "hps": 8.75396, "hit_count": 81,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Rogue_Sig_Finisher",
+      "weapon_hand": "Twin Fangs of Ratsar", "weapon_hand_level": 25, "weapon_hand_upgrade": 3, "weapon_second": "Cheese Moon", "weapon_off": "",
+      "target_count": 4,
+      "targets": [
+        { "name": "Senior Kobold Miner", "total": 2153, "kills": 4, "rank": 0 },
+        { "name": "Kobold Crusher", "total": 1028, "kills": 1, "rank": 0 },
+        { "name": "Reliable Kobold Docker", "total": 830, "kills": 1, "rank": 0 },
+        { "name": "Cleanhanded Kobold Thief", "total": 490, "kills": 1, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 8, "players_total": 32179.0,
+      "players": [
+        { "uid": 119, "name": "Player15", "class": "Mage", "level": 25, "self": 0, "group": 0, "talents_read": 1, "talent_points": 16, "total": 18563.0, "max_hit": 827.0, "dps": 1996.88, "active_sec": 9.30, "hit_count": 221, "crit_count": 60, "physical": 1265.0, "magic": 17298.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Staff_Craft_Passive", "hit_count": 47, "crit_count": 9, "total": 5730.0 },
+            { "skill": "Staff_Craft_S2", "hit_count": 35, "crit_count": 35, "total": 4241.0 },
+            { "skill": "DS_Bladeleaf_Passive", "hit_count": 57, "crit_count": 4, "total": 1972.0 },
+            { "skill": "Staff_Craft_S1", "hit_count": 3, "crit_count": 0, "total": 1317.0 },
+            { "skill": "Infusion_Bee_DPS", "hit_count": 12, "crit_count": 0, "total": 1287.0 },
+            { "skill": "Infusion_Kobold_DPS", "hit_count": 45, "crit_count": 10, "total": 1265.0 },
+            { "skill": "Mage_Conduit_Projectile", "hit_count": 9, "crit_count": 1, "total": 918.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 4, "crit_count": 1, "total": 819.0 }
+          ],
+          "weapons": [
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 0, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Corrupted Gift", "Magic Formula: Devote"] },
+            { "id": "DS_Z1RBee_AssWiz", "name": "Wingsabers", "slot": 1, "level": 25, "upgrade": 5, "rarity": "Legendary", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote", "Corrupted Gift"] }
+          ] },
+        { "uid": 120, "name": "Player17", "class": "Mage", "level": 17, "self": 0, "group": 0, "talents_read": 1, "talent_points": 7, "total": 4810.0, "max_hit": 138.0, "dps": 184.58, "active_sec": 26.06, "hit_count": 186, "crit_count": 78, "physical": 0.0, "magic": 4810.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Staff_Craft_Passive", "hit_count": 73, "crit_count": 10, "total": 2097.0 },
+            { "skill": "Staff_Craft_S1", "hit_count": 13, "crit_count": 1, "total": 1187.0 },
+            { "skill": "Staff_Craft_S2", "hit_count": 64, "crit_count": 64, "total": 810.0 },
+            { "skill": "Mage_Conduit_Projectile", "hit_count": 16, "crit_count": 3, "total": 270.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 6, "crit_count": 0, "total": 168.0 },
+            { "skill": "Book_Start_Skill1", "hit_count": 6, "crit_count": 0, "total": 129.0 },
+            { "skill": "Mage_StaticNova", "hit_count": 1, "crit_count": 0, "total": 70.0 },
+            { "skill": "Staff_Craft_C", "hit_count": 4, "crit_count": 0, "total": 56.0 }
+          ],
+          "weapons": [
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 0, "level": 5, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Book_Start", "name": "Apprentice's Grimoire", "slot": 1, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 121, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 4501.0, "max_hit": 317.0, "dps": 233.81, "active_sec": 19.25, "hit_count": 81, "crit_count": 13, "physical": 3821.0, "magic": 680.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Rogue_Sig_Finisher", "hit_count": 4, "crit_count": 0, "total": 1181.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 6, "crit_count": 1, "total": 751.0 },
+            { "skill": "Axe_Boomerang_Skill1", "hit_count": 20, "crit_count": 2, "total": 695.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 9, "crit_count": 0, "total": 593.0 },
+            { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 10, "crit_count": 4, "total": 514.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 20, "crit_count": 6, "total": 286.0 },
+            { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 8, "crit_count": 0, "total": 211.0 },
+            { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 1, "crit_count": 0, "total": 121.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_DuplicatePoison", "name": "Twin Fangs of Ratsar", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Axe_Boomerang", "name": "Cheese Moon", "slot": 1, "level": 7, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 122, "name": "Player09", "class": "Priest", "level": 24, "self": 0, "group": 0, "talents_read": 1, "talent_points": 14, "total": 2076.0, "max_hit": 196.0, "dps": 125.86, "active_sec": 16.50, "hit_count": 60, "crit_count": 12, "physical": 345.0, "magic": 1731.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Priest_Prayer_Smite", "hit_count": 4, "crit_count": 1, "total": 580.0 },
+            { "skill": "Priest_Talent_Sunlight", "hit_count": 5, "crit_count": 1, "total": 411.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 4, "crit_count": 0, "total": 205.0 },
+            { "skill": "Mace_Benediction_Combo", "hit_count": 5, "crit_count": 1, "total": 199.0 },
+            { "skill": "Mace_Base_Attack", "hit_count": 16, "crit_count": 6, "total": 190.0 },
+            { "skill": "Spear_Eruption_Skill1", "hit_count": 3, "crit_count": 0, "total": 150.0 },
+            { "skill": "Priest_Talent_PurgingStrikes", "hit_count": 7, "crit_count": 2, "total": 119.0 },
+            { "skill": "Mace_Benediction_Passive", "hit_count": 5, "crit_count": 0, "total": 119.0 }
+          ],
+          "weapons": [
+            { "id": "Mace_Benediction", "name": "Amon Ram, the Creator", "slot": 0, "level": 20, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Flaming Weapon"] },
+            { "id": "Spear_Eruption", "name": "Gorgon Ratsay's Toothpick", "slot": 1, "level": 20, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 20, "upgrade": 4, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 114, "name": "Player05", "class": "Priest", "level": 13, "self": 0, "group": 0, "talents_read": 1, "talent_points": 4, "total": 1620.0, "max_hit": 186.0, "dps": 248.58, "active_sec": 6.52, "hit_count": 46, "crit_count": 4, "physical": 488.0, "magic": 1132.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Spear_Eruption_Skill2", "hit_count": 8, "crit_count": 1, "total": 596.0 },
+            { "skill": "Shield_OrbitWater_S1", "hit_count": 16, "crit_count": 2, "total": 440.0 },
+            { "skill": "Sword_Swarm_Skill1", "hit_count": 4, "crit_count": 1, "total": 382.0 },
+            { "skill": "Sword_Swarm_Passive", "hit_count": 8, "crit_count": 0, "total": 96.0 },
+            { "skill": "Sword_Swarm_Combo", "hit_count": 2, "crit_count": 0, "total": 66.0 },
+            { "skill": "Sword_Base_Attack", "hit_count": 8, "crit_count": 0, "total": 40.0 }
+          ],
+          "weapons": [
+            { "id": "Sword_Swarm", "name": "Beefury, Blessed Blade of the Farseeker", "slot": 0, "level": 13, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Spear_Eruption", "name": "Gorgon Ratsay's Toothpick", "slot": 1, "level": 10, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Shield_OrbitWater", "name": "Crabgantua's Kneecap", "slot": 2, "level": 8, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 117, "name": "Player20", "class": "Mage", "level": 24, "self": 0, "group": 0, "talents_read": 1, "talent_points": 15, "total": 392.0, "max_hit": 74.0, "dps": 72.28, "active_sec": 5.42, "hit_count": 20, "crit_count": 2, "physical": 155.0, "magic": 237.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Mage_Conduit_Projectile", "hit_count": 12, "crit_count": 1, "total": 237.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 7, "crit_count": 1, "total": 81.0 },
+            { "skill": "Bow_BigGame_Combo", "hit_count": 1, "crit_count": 0, "total": 74.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_BigGame", "name": "Horns of the Wind", "slot": 0, "level": 22, "upgrade": 0, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "DS_Z1RBee_AssWiz", "name": "Wingsabers", "slot": 1, "level": 12, "upgrade": 0, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 123, "name": "Player07", "class": "Rogue", "level": 3, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 210.0, "max_hit": 29.0, "dps": 8.83, "active_sec": 23.77, "hit_count": 29, "crit_count": 1, "physical": 210.0, "magic": 0.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Daggers_Start_Skill2", "hit_count": 2, "crit_count": 0, "total": 58.0 },
+            { "skill": "Daggers_Start_Combo", "hit_count": 6, "crit_count": 0, "total": 58.0 },
+            { "skill": "Daggers_Base_Attack", "hit_count": 16, "crit_count": 0, "total": 48.0 },
+            { "skill": "Daggers_Start_Skill1", "hit_count": 4, "crit_count": 1, "total": 35.0 },
+            { "skill": "Rogue_Shadowstep", "hit_count": 1, "crit_count": 0, "total": 11.0 }
+          ],
+          "weapons": [
+            { "id": "Daggers_Start", "name": "Rusty Knives", "slot": 0, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 124, "name": "Player16", "class": "Mage", "level": 9, "self": 0, "group": 0, "talents_read": 1, "talent_points": 0, "total": 7.0, "max_hit": 7.0, "dps": 7.00, "active_sec": 1.00, "hit_count": 1, "crit_count": 0, "physical": 0.0, "magic": 7.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Staff_Base_Attack", "hit_count": 1, "crit_count": 0, "total": 7.0 }
+          ],
+          "weapons": [
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 0, "level": 5, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] },
+            { "id": "Book_Start", "name": "Apprentice's Grimoire", "slot": 1, "level": 0, "upgrade": 0, "rarity": "Uncommon", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Rogue_Sig_Finisher", "hit_count": 4, "total": 1181, "max_hit": 317, "crit_count": 0, "cast_count": 1, "physical": 1181, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Skill2", "hit_count": 6, "total": 751, "max_hit": 184, "crit_count": 1, "cast_count": 6, "physical": 751, "magic": 0, "raw": 0 },
+        { "skill": "Axe_Boomerang_Skill1", "hit_count": 20, "total": 695, "max_hit": 132, "crit_count": 2, "cast_count": 2, "physical": 695, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 9, "total": 593, "max_hit": 77, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 593, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_ComboAttack", "hit_count": 10, "total": 514, "max_hit": 86, "crit_count": 4, "cast_count": 5, "physical": 514, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_Base_Attack", "hit_count": 20, "total": 286, "max_hit": 20, "crit_count": 6, "cast_count": 21, "physical": 286, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Passive", "hit_count": 8, "total": 211, "max_hit": 42, "crit_count": 0, "cast_count": 0, "physical": 211, "magic": 0, "raw": 0 },
+        { "skill": "Daggers_DuplicatePoison_Skill1", "hit_count": 1, "total": 121, "max_hit": 121, "crit_count": 0, "cast_count": 1, "physical": 121, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 1, "total": 62, "max_hit": 62, "crit_count": 0, "cast_count": 1, "physical": 62, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 1, "total": 51, "max_hit": 51, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 51, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 1, "total": 36, "max_hit": 36, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 36, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Axe_Boomerang_Skill_Passive", "hit_count": 4, "total": 168.785, "max_hit": 42.5185, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+      ]
+    },
+    {
+      "id": 304, "ended_unix_ms": 1793668176303,
+      "duration_sec": 337.404, "total_damage": 55386, "dps": 164.153,
+      "total_heal": 0, "hps": 0, "hit_count": 1104,
+      "total_shield": 109.859, "sps": 0.3256,
+      "top_skill": "Bow_Craft_Skill1",
+      "weapon_hand": "Credence", "weapon_hand_level": 17, "weapon_hand_upgrade": 3, "weapon_second": "Thornlace", "weapon_off": "",
+      "target_count": 2,
+      "targets": [
+        { "name": "Crabgantua", "total": 36025, "kills": 1, "rank": 3 },
+        { "name": "Crab of the Lost City", "total": 19361, "kills": 17, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 2, "players_total": 94845.0,
+      "players": [
+        { "uid": 125, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 55386.0, "max_hit": 554.0, "dps": 164.16, "active_sec": 337.39, "hit_count": 1104, "crit_count": 158, "physical": 33746.0, "magic": 20231.0, "raw": 1409.0, "build": "0",
+          "skills": [
+            { "skill": "Bow_Craft_Skill1", "hit_count": 82, "crit_count": 13, "total": 17598.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 187, "crit_count": 0, "total": 9554.0 },
+            { "skill": "Rogue_Talent_LethalPoison", "hit_count": 157, "crit_count": 12, "total": 9048.0 },
+            { "skill": "Bow_Craft_Skill2", "hit_count": 79, "crit_count": 19, "total": 7763.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 224, "crit_count": 44, "total": 3175.0 },
+            { "skill": "Bow_Craft_AttackCombo", "hit_count": 34, "crit_count": 8, "total": 2846.0 },
+            { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 258, "crit_count": 49, "total": 2761.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 76, "crit_count": 13, "total": 2365.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 126, "name": "Player06", "class": "Mage", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 39459.0, "max_hit": 481.0, "dps": 119.42, "active_sec": 330.43, "hit_count": 466, "crit_count": 180, "physical": 0.0, "magic": 39459.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Halos_Demon_Skill2", "hit_count": 26, "crit_count": 3, "total": 8701.0 },
+            { "skill": "Halos_Demon_Skill1", "hit_count": 32, "crit_count": 3, "total": 7056.0 },
+            { "skill": "Halos_Demon_Combo", "hit_count": 52, "crit_count": 8, "total": 6404.0 },
+            { "skill": "Staff_Craft_S1", "hit_count": 35, "crit_count": 2, "total": 5679.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 75, "crit_count": 3, "total": 4438.0 },
+            { "skill": "Staff_Craft_S2", "hit_count": 156, "crit_count": 156, "total": 2318.0 },
+            { "skill": "Mage_StaticNova", "hit_count": 12, "crit_count": 0, "total": 2059.0 },
+            { "skill": "Halos_Base_Attack", "hit_count": 72, "crit_count": 5, "total": 1506.0 }
+          ],
+          "weapons": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 1, "level": 18, "upgrade": 2, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Bow_Craft_Skill1", "hit_count": 82, "total": 17598, "max_hit": 554, "crit_count": 13, "cast_count": 47, "physical": 16189, "magic": 0, "raw": 1409 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 187, "total": 9554, "max_hit": 63, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 9554, "raw": 0 },
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 157, "total": 9048, "max_hit": 248, "crit_count": 12, "cast_count": 0, "physical": 3497, "magic": 5551, "raw": 0 },
+        { "skill": "Bow_Craft_Skill2", "hit_count": 79, "total": 7763, "max_hit": 168, "crit_count": 19, "cast_count": 37, "physical": 7763, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Base_Attack", "hit_count": 224, "total": 3175, "max_hit": 22, "crit_count": 44, "cast_count": 256, "physical": 3175, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Craft_AttackCombo", "hit_count": 34, "total": 2846, "max_hit": 115, "crit_count": 8, "cast_count": 43, "physical": 2846, "magic": 0, "raw": 0 },
+        { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 258, "total": 2761, "max_hit": 18, "crit_count": 49, "cast_count": 0, "physical": 0, "magic": 2761, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 76, "total": 2365, "max_hit": 50, "crit_count": 13, "cast_count": 0, "physical": 0, "magic": 2365, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 7, "total": 276, "max_hit": 45, "crit_count": 0, "cast_count": 7, "physical": 276, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+      ],
+      "shield_rows": [
+        { "skill": "Halos_Demon_Skill1_Shield", "hit_count": 2, "total": 109.859, "max_hit": 54.9294, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ]
+    },
+    {
+      "id": 303, "ended_unix_ms": 1793667781604,
+      "duration_sec": 270.065, "total_damage": 36199, "dps": 134.038,
+      "total_heal": 203.203, "hps": 0.752422, "hit_count": 707,
+      "total_shield": 0, "sps": 0,
+      "top_skill": "Bow_Craft_Skill1",
+      "weapon_hand": "Credence", "weapon_hand_level": 17, "weapon_hand_upgrade": 3, "weapon_second": "Thornlace", "weapon_off": "",
+      "target_count": 2,
+      "targets": [
+        { "name": "Crabgantua", "total": 21892, "kills": 0, "rank": 3 },
+        { "name": "Crab of the Lost City", "total": 14307, "kills": 16, "rank": 0 }
+      ],
+      "favorite": 0, "player_count": 2, "players_total": 71847.0,
+      "players": [
+        { "uid": 125, "name": "Hero", "class": "Rogue", "level": 25, "self": 1, "group": 0, "talents_read": 1, "talent_points": 16, "total": 36199.0, "max_hit": 587.0, "dps": 134.05, "active_sec": 270.05, "hit_count": 707, "crit_count": 97, "physical": 22342.0, "magic": 12357.0, "raw": 1500.0, "build": "0",
+          "skills": [
+            { "skill": "Bow_Craft_Skill1", "hit_count": 51, "crit_count": 9, "total": 12377.0 },
+            { "skill": "Rogue_Talent_LethalPoison", "hit_count": 115, "crit_count": 3, "total": 5738.0 },
+            { "skill": "Bow_Craft_Skill2", "hit_count": 56, "crit_count": 15, "total": 5490.0 },
+            { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 95, "crit_count": 0, "total": 4937.0 },
+            { "skill": "Bow_Craft_AttackCombo", "hit_count": 24, "crit_count": 7, "total": 2168.0 },
+            { "skill": "Bow_Base_Attack", "hit_count": 148, "crit_count": 28, "total": 2128.0 },
+            { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 171, "crit_count": 28, "total": 1855.0 },
+            { "skill": "Rogue_Talent_Envenom", "hit_count": 45, "crit_count": 7, "total": 1423.0 }
+          ],
+          "weapons": [
+            { "id": "Bow_Craft", "name": "Credence", "slot": 0, "level": 17, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": ["Magic Formula: Zealot"] },
+            { "id": "Crescent_FlowerSpiral", "name": "Thornlace", "slot": 1, "level": 12, "upgrade": 3, "rarity": "Rare", "infusion": "", "bonus": "", "augments": [] }
+          ] },
+        { "uid": 126, "name": "Player06", "class": "Mage", "level": 25, "self": 0, "group": 1, "talents_read": 1, "talent_points": 16, "total": 35648.0, "max_hit": 506.0, "dps": 130.37, "active_sec": 273.44, "hit_count": 367, "crit_count": 155, "physical": 0.0, "magic": 35648.0, "raw": 0.0, "build": "0",
+          "skills": [
+            { "skill": "Halos_Demon_Skill1", "hit_count": 40, "crit_count": 4, "total": 10437.0 },
+            { "skill": "Staff_Craft_S1", "hit_count": 36, "crit_count": 1, "total": 5888.0 },
+            { "skill": "Halos_Demon_Skill2", "hit_count": 16, "crit_count": 2, "total": 5574.0 },
+            { "skill": "Halos_Demon_Combo", "hit_count": 30, "crit_count": 5, "total": 3789.0 },
+            { "skill": "Mage_StaticNova", "hit_count": 17, "crit_count": 1, "total": 3003.0 },
+            { "skill": "Mage_RayOfSpark", "hit_count": 44, "crit_count": 9, "total": 2758.0 },
+            { "skill": "Staff_Craft_S2", "hit_count": 128, "crit_count": 128, "total": 1798.0 },
+            { "skill": "PurifiedHeart", "hit_count": 6, "crit_count": 0, "total": 1390.0 }
+          ],
+          "weapons": [
+            { "id": "Halos_Demon", "name": "Mirrors of the Nightgoddesses", "slot": 0, "level": 25, "upgrade": 3, "rarity": "Epic", "infusion": "", "bonus": "", "augments": ["Magic Formula: Devote"] },
+            { "id": "Staff_Craft", "name": "Radiance", "slot": 1, "level": 18, "upgrade": 2, "rarity": "Epic", "infusion": "", "bonus": "", "augments": [] }
+          ] }
+      ],
+      "rows": [
+        { "skill": "Bow_Craft_Skill1", "hit_count": 51, "total": 12377, "max_hit": 587, "crit_count": 9, "cast_count": 30, "physical": 10877, "magic": 0, "raw": 1500 },
+        { "skill": "Rogue_Talent_LethalPoison", "hit_count": 115, "total": 5738, "max_hit": 244, "crit_count": 3, "cast_count": 0, "physical": 1596, "magic": 4142, "raw": 0 },
+        { "skill": "Bow_Craft_Skill2", "hit_count": 56, "total": 5490, "max_hit": 168, "crit_count": 15, "cast_count": 26, "physical": 5490, "magic": 0, "raw": 0 },
+        { "skill": "Rogue_Talent_AcidicSplatter", "hit_count": 95, "total": 4937, "max_hit": 55, "crit_count": 0, "cast_count": 0, "physical": 0, "magic": 4937, "raw": 0 },
+        { "skill": "Bow_Craft_AttackCombo", "hit_count": 24, "total": 2168, "max_hit": 130, "crit_count": 7, "cast_count": 32, "physical": 2168, "magic": 0, "raw": 0 },
+        { "skill": "Bow_Base_Attack", "hit_count": 148, "total": 2128, "max_hit": 23, "crit_count": 28, "cast_count": 175, "physical": 2128, "magic": 0, "raw": 0 },
+        { "skill": "Crescent_FlowerSpiral_Passive", "hit_count": 171, "total": 1855, "max_hit": 19, "crit_count": 28, "cast_count": 0, "physical": 0, "magic": 1855, "raw": 0 },
+        { "skill": "Rogue_Talent_Envenom", "hit_count": 45, "total": 1423, "max_hit": 50, "crit_count": 7, "cast_count": 0, "physical": 0, "magic": 1423, "raw": 0 },
+        { "skill": "Rogue_Shadowstep", "hit_count": 2, "total": 83, "max_hit": 45, "crit_count": 0, "cast_count": 3, "physical": 83, "magic": 0, "raw": 0 }
+      ],
+      "heal_rows": [
+        { "skill": "Crescent_FlowerSpiral_Skill_2_Status", "hit_count": 7, "total": 203.203, "max_hit": 73.2429, "crit_count": 1, "cast_count": 0, "physical": 0, "magic": 0, "raw": 0 }
+      ],
+      "shield_rows": [
+      ]
+    }
+  ]
+}

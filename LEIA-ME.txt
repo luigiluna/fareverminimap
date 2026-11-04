@@ -1,0 +1,52 @@
+Farever Overlay (mod hlx) - minimapa, mapa grande e DPS meter dentro do jogo
+=============================================================================
+
+O QUE É
+- Minimapa redondo (canto superior direito), girando com a câmera, com os marcadores
+  de W1 Siagarta, incluindo os 8 altares de Soulstone e outros jogadores por perto.
+- Mapa grande (F6): arrastar move, rodinha dá zoom, clique duplo recentra.
+  Filtros por tipo na legenda à esquerda (ficam salvos).
+- DPS meter (F10 mostra/esconde, F9 zera): dano por skill, Physical/Magic/Raw,
+  casts, aba PLAYERS (todos que o servidor manda ao seu cliente, com classe, nível,
+  armas e botão Build com equipamento e talentos) e HISTORY (lutas passadas,
+  estrela para guardar). Botão "-" minimiza a janela.
+- Desenhado com o motor do próprio jogo (Heaps h2d). Não usa DirectX/D3D12 nem
+  dinput8.dll.
+
+REQUISITOS
+- hlx-core 0.0.11 (libhl64.dll e a pasta hlx\loader na pasta do jogo).
+- Better Mod Settings (para ligar o mod e mudar as opções dentro do jogo).
+
+INSTALAR
+1. Feche o jogo.
+2. Copie a pasta "hlx" deste zip para a pasta do jogo
+   (ex.: C:\Program Files (x86)\Steam\steamapps\common\Farever\).
+   O resultado é hlx\mods\farever-overlay\farever-overlay.hl.
+3. Abra o jogo. O mod começa DESLIGADO.
+4. Esc > Mod Settings > Farever Overlay > marque "Enable Farever Overlay".
+
+DESLIGAR
+- Esc > Mod Settings > Farever Overlay > desmarque "Enable Farever Overlay".
+
+DESINSTALAR
+- Com o jogo fechado, apague a pasta hlx\mods\farever-overlay.
+- Para apagar também as opções e o histórico de lutas: hlx\config\farever-overlay.
+
+CONVIVÊNCIA COM O OVERLAY ANTIGO (dinput8.dll)
+- Os dois podem ficar instalados. Use um de cada vez: com os dois ligados, os
+  minimapas ficam no mesmo canto e as teclas F6/F8/F9/F10 valem para os dois.
+  F7 esconde o overlay antigo.
+- O histórico do overlay antigo (%LOCALAPPDATA%\farever-minimap\fight_history.json)
+  é só LIDO, uma vez, para importar as lutas. O mod grava o próprio histórico em
+  hlx\config\farever-overlay\fight_history.json.
+
+LIMITES
+- NÃO FOI TESTADO NO WINDOWS. Foi testado só no Linux (Proton).
+- Só lê o estado do jogo. Os painéis bloqueiam o clique em cima deles, como as
+  janelas do jogo; a rodinha e o teclado continuam chegando ao jogo.
+- O mapa só existe para W1 Siagarta. Em dungeons aparece "No map here".
+- PLAYERS mostra só o que chega ao seu cliente: quem está longe não aparece.
+- Os nomes de itens, talentos e skills vêm de uma tabela gerada do jogo (inglês).
+- Atualização do jogo pode quebrar o mod (nomes de classes e campos mudam).
+
+Licenças: inclui hlx-runtime (MIT, hlx-framework). Mod: uso pessoal.

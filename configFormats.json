@@ -1,0 +1,54 @@
+{
+  "configs": [
+    {
+      "key": "enabled",
+      "label": "Enable Farever Overlay (minimap + DPS meter)",
+      "type": "checkbox"
+    },
+    {
+      "key": "showMinimap",
+      "label": "Show the minimap (F8)",
+      "type": "checkbox"
+    },
+    {
+      "key": "rotateMinimap",
+      "label": "Rotate the minimap",
+      "type": "checkbox"
+    },
+    {
+      "key": "followCamera",
+      "label": "Rotate with the camera (off: with the character)",
+      "type": "checkbox"
+    },
+    {
+      "key": "minimapSize",
+      "label": "Minimap size (px)",
+      "type": "slider",
+      "min": 120,
+      "max": 500,
+      "step": 10
+    },
+    {
+      "key": "showPlayers",
+      "label": "Show other players on the maps",
+      "type": "checkbox"
+    },
+    {
+      "key": "playerNames",
+      "label": "Names of other players on the minimap",
+      "type": "checkbox"
+    },
+    {
+      "key": "showDps",
+      "label": "Show the DPS meter (F10)",
+      "type": "checkbox"
+    },
+    {
+      "key": "bossReset",
+      "label": "Boss reset: first hit on a boss starts a new fight",
+      "type": "checkbox"
+    }
+  ],
+  "displayName": "Farever Overlay",
+  "schemaVersion": 1
+}

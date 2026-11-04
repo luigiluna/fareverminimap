@@ -1,0 +1,6 @@
+-cp vendor/hlx-runtime/src
+-cp src
+-D hl-ver=1.16.0
+-main fo.OverlayMod
+-dce full
+-hl build/farever-overlay/farever-overlay.hl
